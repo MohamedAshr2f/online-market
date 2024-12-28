@@ -1,0 +1,10 @@
+1-take [icons] file and save it in drive(c).
+
+2-import the market.sql from database folder to [mysql]
+
+3-to connect this with netbeans:
+https://www.youtube.com/watch?v=4cS5I66MUHo&t=332s
+note:the [mysql-connector-java-8.0.25] exist in database folder.
+
+4-if netbeans version 12.1:
+open the word document.
